@@ -1,4 +1,5 @@
 import re
+print("Here you can  calculate anything ! ")
 while True:
     l = input("Enter an expression : ")
     n = re.findall("[0-9]+",l)
